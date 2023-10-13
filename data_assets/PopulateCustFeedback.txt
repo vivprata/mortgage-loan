@@ -1,0 +1,20 @@
+1001, The bank's customer service was excellent. They resolved my issue promptly and were very polite. Highly satisfied with their service.
+1002, The bank should improve its online banking interface. It feels outdated and sometimes confusing. Otherwise, their staff is helpful.
+1003, I had a great experience with the bank. Their mobile app is user-friendly, and the interest rates are competitive. Highly recommend.
+1004, The bank's response time to customer queries needs improvement. It took quite a while to get a resolution to my issue.
+1005, I am happy with the bank's customer service. Their staff is always polite and helpful whenever I visit the branch.
+1006, I faced issues with my online transactions. The bank should provide clearer instructions for using their internet banking.
+1007, I am satisfied with the bank's services overall. However, they could offer more competitive interest rates.
+1008, The bank's customer service needs improvement. I faced some delays in getting my issue resolved.
+1009, The bank's mobile app is excellent, very convenient to use for all banking needs. I am highly satisfied.
+1010, The bank's credit card application process was straightforward, and I got my card quickly. Good experience overall.
+1001, I faced issues with the ATM at the bank branch. It was out of service, and there was no notice.
+1002, The bank's branch near my location is always overcrowded, resulting in long waiting times.
+1003, The bank should provide more investment options for its customers.
+1004, I had a smooth experience opening a new savings account with the bank. The staff was helpful.
+1005, The bank's website needs improvement. It is slow and sometimes unresponsive.
+1006, I encountered a security issue with my online banking. The bank should enhance security measures.
+1007, The bank's credit card rewards program is quite attractive. I enjoy the benefits it offers.
+1008, I faced difficulties in contacting customer support. The phone lines were busy, and the email response was slow.
+1009, The bank's loan application process was cumbersome. It required a lot of paperwork and verification.
+1010, I faced an issue with an unauthorized transaction on my account. The bank resolved it quickly.

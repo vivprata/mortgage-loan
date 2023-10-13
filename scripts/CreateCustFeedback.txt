@@ -1,0 +1,13 @@
+#Create the "retail_banking" schema in iceberg_data catalog by using the following command or through the UI
+create schema iceberg_data.retail_banking
+
+
+#Create the "customerfeedback" table in the iceberg_banking schema by using the following command or through the UI
+
+CREATE TABLE iceberg_data.iceberg_banking.customerfeedback (
+   "customer_id" varchar,
+   "feedback" varchar
+)
+WITH (
+   format = 'PARQUET'
+)

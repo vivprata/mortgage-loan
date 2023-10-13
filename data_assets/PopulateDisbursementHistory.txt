@@ -1,0 +1,23 @@
+INSERT INTO db2_catalog.fyl89292.Disbursement_History 
+(Customer_Id, Customer_Name, Loan_ID, Disbursement_amount, Disbursement_date, Loan_Active) 
+VALUES 
+('CUST1','John Doe','LOAN1','5000','24/07/16','Yes'),
+('CUST2','Jane Smith','LOAN2','7000','15/04/14','Yes'),
+('CUST3','Robert Johnson','LOAN3','3500','30/11/15','Yes'),
+('CUST4','Emily Williams','LOAN4','4500','18/09/13','Yes'),
+('CUST5','William Brown','LOAN5','5500','07/06/14','Yes'),
+('CUST6','Sophia Davis','LOAN6','4200','12/12/12','Yes'),
+('CUST7','Michael Miller','LOAN7','6800','25/03/13','Yes'),
+('CUST8','Olivia Wilson','LOAN8','5300','20/08/11','Yes'),
+('CUST9','James Taylor','LOAN9','4100','03/05/10','Yes'),
+('CUST10','Ava Anderson','LOAN10','4800','10/01/16','Yes'),
+('CUST11','Michael Johnson','LOAN11','3000','05/10/22','Yes'),
+('CUST12','Sarah Adams','LOAN12','6000','20/11/21','Yes'),
+('CUST13','Daniel Martinez','LOAN13','3700','15/06/20','Yes'),
+('CUST14','Mia Lee','LOAN14','4200','22/09/19','Yes'),
+('CUST15','Ethan Wright','LOAN15','5200','10/12/20','Yes'),
+('CUST16','Chloe Johnson','LOAN16','4100','17/08/18','Yes'),
+('CUST17','Alexander Brown','LOAN17','3800','05/07/17','Yes'),
+('CUST18','Isabella Martin','LOAN18','4500','30/04/19','Yes'),
+('CUST19','William Hall','LOAN19','3900','11/02/18','Yes'),
+('CUST20','Aiden Clark','LOAN20','4700','28/04/22','Yes');

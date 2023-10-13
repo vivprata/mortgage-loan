@@ -1,0 +1,13 @@
+SELECT
+    cust.customer_name,
+    ls.loan_status,
+    cust.customer_preferences,
+    fb.feedback
+FROM
+    iceberg_data.retail_banking.cust_feedback fb
+JOIN
+    db2_catalog.fyl89292.Customer cust
+    ON fb.customer_id = cust.customer_id
+JOIN
+    iceberg_data.retail_banking.customer_loanstatus ls
+    ON ls.customer_id = cust.customer_id

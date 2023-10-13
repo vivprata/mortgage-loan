@@ -1,0 +1,9 @@
+#Create the Disbursement_History table
+CREATE TABLE db2_catalog.fyl89292.Disbursement_History (
+    Customer_Id varchar(50),
+    Customer_Name varchar(50),
+    Loan_ID archer(50),
+    Disbursement_amount varchar(50),
+    Disbursement_date varchar(50),
+    Loan_Active varchar(50)
+);

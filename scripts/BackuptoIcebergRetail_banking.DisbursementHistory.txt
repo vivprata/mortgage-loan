@@ -1,0 +1,4 @@
+create table ""iceberg_data"".""retail_banking"".""Disbursement_history"" as
+
+select * from db2_catalog.fyl89292.Disbursement_History 
+where  Disbursement_date < '2015-01-01'

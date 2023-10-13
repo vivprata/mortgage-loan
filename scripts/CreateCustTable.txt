@@ -1,0 +1,7 @@
+CREATE TABLE db2_catalog.fyl89292.customer (
+   "Customer_Id" varchar(36),
+   "Customer_name" varchar(36),
+   "Customer_status" varchar(36),
+   "Customer_preferences" varchar(36),
+   "Customer_education" varchar(36)
+)

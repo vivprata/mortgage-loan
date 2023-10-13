@@ -1,0 +1,4 @@
+insert into ""iceberg_data"".""retail_banking"".""Disbursement_history""
+
+select * from db2_catalog.fyl89292.Disbursement_History 
+where  Disbursement_date < '2020-01-01'"
